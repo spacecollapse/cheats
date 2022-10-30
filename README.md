@@ -26,3 +26,6 @@ Team Fortress 2 - https://github.com/defoxxx/Team-Fortress-2
 
 # Туториал что делать если не работают читы 
 https://github.com/defoxxx/flight
+
+# Туториал как инжектить читы
+https://github.com/defoxxx/Inject
