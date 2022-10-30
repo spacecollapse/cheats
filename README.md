@@ -30,3 +30,7 @@ https://github.com/defoxxx/flight
 
 # Туториал как инжектить читы
 https://github.com/defoxxx/Inject
+
+# credits
+discord by crystalaway (A.K.A usehvh) 
+https://youtu.be/w2gXDoqD4fE
