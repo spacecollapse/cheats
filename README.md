@@ -34,4 +34,4 @@ https://github.com/defoxxx/Inject
 # credits
 discord by crystalaway (A.K.A usehvh) 
 
-https://discord.com/tYpSxkRzbD
+https://discord.com/invite/tYpSxkRzbD
