@@ -22,6 +22,8 @@ RedMatch2 - https://github.com/defoxxx/RedMatch2
 
 Team Fortress 2 - https://github.com/defoxxx/Team-Fortress-2
 
+Minecraft - https://github.com/defoxxx/minecraft
+
 # Инжектор для читов если у вас его нет
 https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe
 
