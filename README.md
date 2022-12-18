@@ -33,6 +33,9 @@ https://github.com/defoxxx/flight
 # Туториал как инжектить читы
 https://github.com/defoxxx/Inject
 
+# Батники для очистки
+https://github.com/defoxxx/bat
+
 # credits
 discord by crystalaway (A.K.A usehvh) 
 
