@@ -1,5 +1,8 @@
 # Вступление
 
+# услуга
+Продаю вам игру по дешевке в стиме - https://github.com/defoxxx/sot200rub
+
 Всем привет снова мои сладкие пирожочки любящие играть с читами (─‿‿─)
 
 В данный момент времени все читы будут публиковаться исключительно на GitHub❗
@@ -24,7 +27,9 @@ Team Fortress 2 - https://github.com/defoxxx/Team-Fortress-2
 
 Minecraft - https://github.com/defoxxx/minecraft
 
-Sea Of Thieves - временно отсутствует
+Sea Of Thieves - https://github.com/defoxxx/SeaOfThieves
+
+Зарегаю вам аккаунт и куплю на него Sea Of Thieves за 200руб - https://github.com/defoxxx/sot200rub
 
 # Инжектор для читов если у вас его нет
 https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe
