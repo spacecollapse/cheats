@@ -21,10 +21,6 @@ ShellShock Live - https://github.com/defoxxx/ShellShock-Live
 
 Phasmophobia - https://github.com/defoxxx/Phasmophobia
 
-!) куплю вам фазмофобию за 140 рублей https://github.com/defoxxx/daryigri
-
-
-
 RedMatch2 - https://github.com/defoxxx/RedMatch2
 
 Team Fortress 2 - https://github.com/defoxxx/Team-Fortress-2
