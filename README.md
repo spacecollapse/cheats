@@ -30,6 +30,8 @@ Minecraft - https://github.com/defoxxx/minecraft
 
 Sea Of Thieves - https://github.com/defoxxx/SeaOfThieves
 
+Among-Us - https://github.com/defoxxx/among-us
+
 
 # Инжектор для читов если у вас его нет
 https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe
