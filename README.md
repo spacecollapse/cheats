@@ -45,6 +45,10 @@ https://github.com/defoxxx/Inject
 # Батники для очистки
 https://github.com/defoxxx/bat
 
+# Пак после сноса винды
+
+Пак после сноса винды со всеми нужными компонентами - https://github.com/defoxxx/cheats/releases/download/ex/packposlesnosa.zip
+
 # credits
 discord by crystalaway (A.K.A usehvh) 
 
