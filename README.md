@@ -50,6 +50,6 @@ https://github.com/defoxxx/bat
 Пак после сноса винды со всеми нужными компонентами - https://github.com/defoxxx/cheats/releases/download/ex/packposlesnosa.zip
 
 # credits
-discord by crystalaway (A.K.A usehvh) 
+discord by teppelin (A.K.A usehvh) 
 
 https://discord.com/invite/tYpSxkRzbD
