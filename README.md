@@ -1,6 +1,6 @@
 # О нас
 
-Информация о нас доступна здесь - https://github.com/spacecollapse about
+Информация о нас доступна здесь - https://github.com/spacecollapse/about
 
 # Вступление
 
