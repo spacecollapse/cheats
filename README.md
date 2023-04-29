@@ -10,48 +10,46 @@
 
 Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
-Rust - https://github.com/defoxxx/Rust
+Rust - https://github.com/spacecollapse/Rust
 
-Gmod - https://github.com/defoxxx/Gmod-Gmod-lua
+Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
 
-Genshin - https://github.com/defoxxx/Genshin-Impact
+Genshin - https://github.com/spacecollapse/Genshin-Impact
 
-Osu! - https://github.com/defoxxx/osu
+Osu! - https://github.com/spacecollapse/osu
 
-ShellShock Live - https://github.com/defoxxx/ShellShock-Live
+ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
-Phasmophobia - https://github.com/defoxxx/Phasmophobia
+Phasmophobia - https://github.com/spacecollapse/Phasmophobia
 
-RedMatch2 - https://github.com/defoxxx/RedMatch2
+RedMatch2 - https://github.com/spacecollapse/RedMatch2
 
-Team Fortress 2 - https://github.com/defoxxx/Team-Fortress-2
+Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2
 
-Minecraft - https://github.com/defoxxx/minecraft
+Minecraft - https://github.com/spacecollapse/minecraft
 
-Sea Of Thieves - https://github.com/defoxxx/SeaOfThieves
+Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves
 
-Among-Us - https://github.com/defoxxx/among-us
+Among-Us - https://github.com/spacecollapse/among-us
 
 
 # Инжектор для читов если у вас его нет
-https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe
+https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe
 
 # Туториал что делать если не работают читы 
-https://github.com/defoxxx/flight
+https://github.com/spacecollapse/flight
 
 # Туториал как инжектить читы
-https://github.com/defoxxx/Inject
+https://github.com/spacecollapse/Inject
 
 # Батники для очистки
-https://github.com/defoxxx/bat
+https://github.com/spacecollapse/bat
 
 # Пак после сноса винды
 
-Пак после сноса винды со всеми нужными компонентами - https://github.com/defoxxx/cheats/releases/download/ex/packposlesnosa.zip
+Пак после сноса винды со всеми нужными компонентами - https://github.com/spacecollapse/cheats/releases/download/ex/packposlesnosa.zip
 
 # credits
 discord by teppelin (A.K.A usehvh) 
 
 https://discord.com/invite/tYpSxkRzbD
-
-Все читы предоставляет наш менеджер
