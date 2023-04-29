@@ -1,6 +1,6 @@
 # О нас
 
-Информация о нас доступна здесь - https://github.com/defoxxx/about
+Информация о нас доступна здесь - https://github.com/spacecollapseabout
 
 # Вступление
 
