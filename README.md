@@ -53,3 +53,5 @@ https://github.com/defoxxx/bat
 discord by teppelin (A.K.A usehvh) 
 
 https://discord.com/invite/tYpSxkRzbD
+
+Все читы предоставляет наш менеджер
