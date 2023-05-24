@@ -32,7 +32,7 @@ Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves
 
 Among-Us - https://github.com/spacecollapse/among-us
 
-Among-Us - https://github.com/spacecollapse/witchit
+Witch It - https://github.com/spacecollapse/witchit
 
 
 # Инжектор для читов если у вас его нет
