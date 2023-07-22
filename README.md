@@ -20,7 +20,7 @@ Osu! - https://github.com/spacecollapse/osu-
 
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
-Phasmophobia - https://github.com/spacecollapse/Phasmophobia
+Phasmophobia - https://github.com/spacecollapse/Phasma
 
 RedMatch2 - https://github.com/spacecollapse/RedMatch2
 
