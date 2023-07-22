@@ -16,7 +16,7 @@ Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
 
 Genshin - https://github.com/spacecollapse/Genshin-Impact
 
-Osu! - https://github.com/spacecollapse/osu
+Osu! - https://github.com/spacecollapse/osu-
 
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
