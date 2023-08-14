@@ -54,4 +54,6 @@ https://github.com/spacecollapse/bat
 # credits
 discord by teppelin (A.K.A usehvh) 
 
+Всё что находится здесь - есть в открытом доступе
+
 https://discord.com/invite/tYpSxkRzbD
