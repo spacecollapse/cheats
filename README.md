@@ -1,6 +1,8 @@
-# О нас
+# О нас и обо мне
 
-Информация о нас доступна здесь - https://github.com/spacecollapse/about
+Информация о нас доступна здесь - https://github.com/spacecollapse/about 
+
+Связаться со мной можно в дискорде и в телеграмме, вся информация находится ВНИЗУ страницы, отвечу на любой ваш вопрос
 
 # Вступление
 
@@ -52,8 +54,10 @@ https://github.com/spacecollapse/bat
 Пак после сноса винды со всеми нужными компонентами - https://github.com/spacecollapse/cheats/releases/download/ex/packposlesnosa.zip
 
 # credits
-discord by teppelin (A.K.A usehvh) 
+Связь со мной в дискорд, либо телеграмм - https://t.me/usehvh
 
-Всё что находится здесь - есть в открытом доступе
+Информация может меняться, если вам нужны актуальные контакты в то или иное время суток, посетите эту страницу
 
 https://discord.com/invite/tYpSxkRzbD
+
+made with love </>
