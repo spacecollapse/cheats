@@ -28,7 +28,7 @@ RedMatch2 - https://github.com/spacecollapse/RedMatch2
 
 Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обновлено 07.02.2024*\
 
-Minecraft - https://github.com/spacecollapse/minecraft
+Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.02.2024*\
 
 Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves
 
