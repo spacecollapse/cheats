@@ -18,7 +18,7 @@ Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
 
 Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 07.02.2024*\
 
-Osu! - https://github.com/spacecollapse/osu-
+Osu! - https://github.com/spacecollapse/osu- /*Обновлено 07.02.2024*\
 
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
@@ -26,7 +26,7 @@ Phasmophobia - https://github.com/spacecollapse/Phasma
 
 RedMatch2 - https://github.com/spacecollapse/RedMatch2
 
-Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 \*Обновлено 07.02.2024*\
+Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обновлено 07.02.2024*\
 
 Minecraft - https://github.com/spacecollapse/minecraft
 
