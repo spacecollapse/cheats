@@ -1,4 +1,4 @@
-# О нас и обо мне
+# О нас
 
 Информация о нас доступна здесь - https://github.com/spacecollapse/about 
 
