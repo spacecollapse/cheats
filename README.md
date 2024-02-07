@@ -12,7 +12,9 @@
 
 Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
-Rust - https://github.com/spacecollapse/Rust
+Rust - https://github.com/spacecollapse/Rust 
+
+|Обновлено 07.02|
 
 Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
 
