@@ -12,11 +12,11 @@
 
 Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
-Rust - https://github.com/spacecollapse/Rust \*Обновлено 07.02.2024*\
+Rust - https://github.com/spacecollapse/Rust /*Обновлено 07.02.2024*\
 
 Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
 
-Genshin - https://github.com/spacecollapse/Genshin-Impact \*Обновлено 07.02.2024*\
+Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 07.02.2024*\
 
 Osu! - https://github.com/spacecollapse/osu-
 
