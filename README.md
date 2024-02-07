@@ -12,13 +12,11 @@
 
 Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
-Rust - https://github.com/spacecollapse/Rust *Обновлено 07.02.2024*
-
-
+Rust - https://github.com/spacecollapse/Rust \*Обновлено 07.02.2024*\
 
 Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
 
-Genshin - https://github.com/spacecollapse/Genshin-Impact
+Genshin - https://github.com/spacecollapse/Genshin-Impact \*Обновлено 07.02.2024*\
 
 Osu! - https://github.com/spacecollapse/osu-
 
@@ -28,7 +26,7 @@ Phasmophobia - https://github.com/spacecollapse/Phasma
 
 RedMatch2 - https://github.com/spacecollapse/RedMatch2
 
-Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2
+Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 \*Обновлено 07.02.2024*\
 
 Minecraft - https://github.com/spacecollapse/minecraft
 
