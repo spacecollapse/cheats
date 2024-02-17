@@ -50,7 +50,9 @@ https://github.com/spacecollapse/bat
 
 # Пак после сноса винды
 
-Пак после сноса винды со всеми нужными компонентами - https://github.com/spacecollapse/cheats/releases/download/ex/packposlesnosa.zip
+Скачать можно здесь - https://github.com/spacecollapse/cheats/releases/download/ex/packwindows.zip
+
+или здесь - https://disk.yandex.ru/d/uB6-5JpiuFU2yQ
 
 # credits
 Связь со мной в дискорд, либо телеграмм - https://t.me/usehvh
