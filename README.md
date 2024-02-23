@@ -55,7 +55,7 @@ https://github.com/spacecollapse/bat
 или здесь - https://disk.yandex.ru/d/uB6-5JpiuFU2yQ
 
 # credits
-Связь со мной в дискорд, либо телеграмм - https://t.me/mapletrue
+Связь со мной в дискорд, либо телеграмм - https://t.me/mapletrueo
 
 Информация может меняться, если вам нужны актуальные контакты в то или иное время суток, посетите эту страницу
 
