@@ -21,7 +21,7 @@ Osu! - https://github.com/spacecollapse/osu- /*Обновлено 07.02.2024*\
 
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
-Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 17.02.2024*\
+Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 24.02.2024*\
 
 RedMatch2 - https://github.com/spacecollapse/RedMatch2
 
