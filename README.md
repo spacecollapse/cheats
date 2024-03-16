@@ -31,7 +31,7 @@ Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.0
 
 Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /**\
 
-Among-Us - https://github.com/spacecollapse/among-us
+Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 16.03.2024*\
 
 Witch It - https://github.com/spacecollapse/witchit
 
