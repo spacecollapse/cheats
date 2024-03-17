@@ -29,7 +29,7 @@ Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обнов�
 
 Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.02.2024*\
 
-Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /**\
+Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /*Обновлено 17.03.2024*\
 
 Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 16.03.2024*\
 
