@@ -5,7 +5,7 @@
 ![image](https://media.discordapp.net/attachments/1118409539281236009/1221516527363428362/Screenshot_2024-03-24-22-48-31-413_com.discord-edit.jpg?ex=6612dcea&is=660067ea&hm=bb0818efc98244c1e91d63a98358a1eb23878c56ee19935a5eee7187da12a1c0&) 
 
 
-# Вступление
+# ЧИТЫ
 
 Всем привет снова (─‿‿─)
 
