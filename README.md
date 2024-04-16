@@ -52,8 +52,6 @@ https://github.com/spacecollapse/bat
 # credits
 Связь со мной в дискорд, мой ник usehvh на сервере
 
-Информация может меняться, если вам нужны актуальные контакты в то или иное время суток, посетите эту страницу
-
 https://discord.com/invite/tYpSxkRzbD
 
 made with love </>
