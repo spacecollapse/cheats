@@ -18,7 +18,7 @@ ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
 Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 03.04.2024*\
 
-RedMatch2 - https://github.com/spacecollapse/RedMatch2 /* Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
+RedMatch2 - https://github.com/spacecollapse/RedMatch2 /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
 Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обновлено 07.02.2024*\
 
