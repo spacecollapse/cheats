@@ -28,7 +28,7 @@ Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /*Обновле�
 
 Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 16.03.2024*\
 
-Witch It - https://github.com/spacecollapse/witchit
+Witch It - https://github.com/spacecollapse/witchit /* Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
 
 # Инжектор для читов если у вас его нет
