@@ -50,7 +50,8 @@ https://github.com/spacecollapse/bat
 или здесь - https://disk.yandex.ru/d/uB6-5JpiuFU2yQ
 
 # credits
-Связь со мной в дискорд, мой ник usehvh на сервере
+Связь со мной в дискорд, мой ник usehvh на сервере либо тг https://t.me/mapletrueo
+
 
 https://discord.com/invite/tYpSxkRzbD
 
