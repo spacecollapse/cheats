@@ -6,17 +6,17 @@
 
 Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
-Rust - https://github.com/spacecollapse/Rust /*Обновлено 10.07.2024*\
+Rust - https://github.com/spacecollapse/Rust /*Обновлено 21.07.2024*\
 
-Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua
+Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua /*Обновлено 20.07.2024*\
 
-Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 30.05.2024*\
+Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 25.07.2024*\
 
 Osu! - https://github.com/spacecollapse/osu- /*Обновлено 15.05.2024*\
 
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
-Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 03.04.2024*\
+Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 24.07.2024*\
 
 RedMatch2 - https://github.com/spacecollapse/RedMatch2 /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
