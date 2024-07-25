@@ -26,7 +26,7 @@ Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.0
 
 Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /*Обновлено 17.03.2024*\
 
-Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 16.03.2024*\
+Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 11.07.2024*\
 
 Witch It - https://github.com/spacecollapse/witchit /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
