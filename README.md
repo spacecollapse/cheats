@@ -8,7 +8,7 @@
 
 Rust - https://github.com/spacecollapse/Rust /*Обновлено 21.07.2024*\
 
-Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua /*Обновлено 20.07.2024*\
+Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua /*Обновлено 29.07.2024*\
 
 Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 25.07.2024*\
 
