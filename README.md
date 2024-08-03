@@ -6,7 +6,7 @@
 
 Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
-Rust - https://github.com/spacecollapse/Rust /*Обновлено 21.07.2024*\
+Rust - https://github.com/spacecollapse/Rust /*Обновлено 03.08.2024*\
 
 Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua /*Обновлено 29.07.2024*\
 
