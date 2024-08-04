@@ -35,7 +35,9 @@ Witch It - /*Раздел не обновлён уже как полгода, ч
 https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe
 
 # Туториал что делать если не работают читы 
-https://github.com/spacecollapse/flight
+Скачайте компоненты - https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip
+
+Установите каждый файл, если пр  устаноаке ошибка значит уже установлено
 
 # Туториал как инжектить читы
 https://github.com/spacecollapse/Inject
