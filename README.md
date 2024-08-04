@@ -37,7 +37,7 @@ https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3
 # Туториал что делать если не работают читы 
 Скачайте компоненты - https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip
 
-Установите каждый файл, если пр  устаноаке ошибка значит уже установлено
+Установите каждый файл, если при установке ошибка значит уже установлено
 
 # Туториал как инжектить читы
 https://github.com/spacecollapse/Inject
@@ -47,9 +47,7 @@ https://github.com/spacecollapse/bat
 
 # Пак после сноса винды
 
-Скачать можно здесь - https://github.com/spacecollapse/cheats/releases/download/ex/packwindows.zip
-
-или здесь - https://disk.yandex.ru/d/uB6-5JpiuFU2yQ
+Скачать можно здесь - если я забыл тут ссылку вставить напомните мне
 
 # credits
 Связь со мной в дискорд, мой ник usehvh на сервере либо тг https://t.me/mapletrueo
