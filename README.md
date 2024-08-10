@@ -50,7 +50,7 @@ https://github.com/spacecollapse/bat
 Скачать можно здесь - https://github.com/spacecollapse/cheats/releases/download/ex/windows.zip
 
 # credits
-Связь со мной в дискорд, мой ник usehvh на сервере либо тг https://t.me/mapletrueo
+Связь со мной в дискорд, мой ник usehvh на сервере либо тг https://t.me/usehvh
 
 
 https://discord.com/invite/tYpSxkRzbD
