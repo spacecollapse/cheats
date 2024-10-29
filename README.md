@@ -1,4 +1,4 @@
-# ЧИТЫ
+![image](https://github.com/user-attachments/assets/1cc4b4f1-b9e6-4888-97c9-c80da585b562)# ЧИТЫ
 
 Всем привет снова (─‿‿─)
 
@@ -24,7 +24,7 @@ Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обнов�
 
 Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.02.2024*\
 
-Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /*Обновлено 17.03.2024*\
+Sea Of Thieves - /*Произошло добавление античита, читы не обновляют для этой игры*\
 
 RedMatch2 - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
