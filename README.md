@@ -10,15 +10,15 @@ Rust - https://github.com/spacecollapse/Rust /*Обновлено 11.08.2024*\
 
 Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua /*Обновлено 29.07.2024*\
 
-Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 25.07.2024*\
+Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 30.10.2024*\
 
 Osu! - https://github.com/spacecollapse/osu- /*Обновлено 15.05.2024*\
 
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live
 
-Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 24.07.2024*\
+Phasmophobia - https://github.com/spacecollapse/Phasma /*Обновлено 31.10.2024*\
 
-RedMatch2 - https://github.com/spacecollapse/RedMatch2 /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
+Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 30.10.2024*\
 
 Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обновлено 07.02.2024*\
 
@@ -26,7 +26,7 @@ Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.0
 
 Sea Of Thieves - https://github.com/spacecollapse/SeaOfThieves /*Обновлено 17.03.2024*\
 
-Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 11.07.2024*\
+RedMatch2 - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
 Witch It - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
