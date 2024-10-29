@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1cc4b4f1-b9e6-4888-97c9-c80da585b562)# ЧИТЫ
+# ЧИТЫ
 
 Всем привет снова (─‿‿─)
 
