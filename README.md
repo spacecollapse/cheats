@@ -20,8 +20,6 @@ Among-Us - https://github.com/spacecollapse/among-us /*Обновлено 30.10.
 
 Team Fortress 2 - https://github.com/spacecollapse/Team-Fortress-2 /*Обновлено 07.02.2024*\
 
-Minecraft - https://github.com/spacecollapse/minecraft /*Обновлено 07.02.2024*\
-
 ShellShock Live - https://github.com/spacecollapse/ShellShock-Live /*Всегда работает*\
 
 Sea Of Thieves - /*Произошло добавление античита, читы не обновляют для этой игры*\
