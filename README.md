@@ -59,6 +59,6 @@ made with love </>
 
 # gmod
 
-**FriendlyHack**
-> [!**FriendlyHack**]
+
+> [!FriendlyHack]
 > Useful information that users should know, even when skimming content.
