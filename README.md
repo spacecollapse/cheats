@@ -8,7 +8,7 @@
 
 Rust - https://github.com/spacecollapse/Rust /*Обновлено 11.08.2024*\
 
-Gmod - https://github.com/spacecollapse/Gmod-Gmod-lua /*Обновлено 29.07.2024*\
+Gmod - [Нажми сюда](https://github.com/spacecollapse/cheats?tab=readme-ov-file#gmod) /*Обновлено 29.07.2024*\
 
 Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 30.10.2024*\
 
@@ -57,9 +57,9 @@ made with love </>
 
 
 
-# gmod
+## gmod
 
-## FriendlyHack
+### FriendlyHack
 
 ![{E226D145-8AFB-486F-9712-2CEDCC6D2570}](https://github.com/user-attachments/assets/98659771-065c-4b3d-9e80-f55d1970d21c)
 
