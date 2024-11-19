@@ -8,7 +8,7 @@
 
 Rust - https://github.com/spacecollapse/Rust /*Обновлено 11.08.2024*\
 
-Gmod - [Нажми сюда](https://github.com/spacecollapse/cheats?tab=readme-ov-file#gmod) /*Обновлено 29.07.2024*\
+Gmod - [Нажми сюда](https://github.com/spacecollapse/cheats#garrys-mod) /*Обновлено 29.07.2024*\
 
 Genshin - https://github.com/spacecollapse/Genshin-Impact /*Обновлено 30.10.2024*\
 
