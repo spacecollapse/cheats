@@ -61,3 +61,11 @@ made with love </>
 
 ## FriendlyHack
 
+![{E226D145-8AFB-486F-9712-2CEDCC6D2570}](https://github.com/user-attachments/assets/98659771-065c-4b3d-9e80-f55d1970d21c)
+
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/friendly.dll
+
+![image](https://github.com/user-attachments/assets/f6f11c40-20ba-4410-bd4e-9c433e921ab7)
+
+
