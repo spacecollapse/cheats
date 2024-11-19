@@ -67,7 +67,7 @@ made with love </>
 
 # - - - - - - - - - - - - 
 
-## gmod
+## Garry's mod
 
 ### FriendlyHack
 
