@@ -54,3 +54,11 @@ https://github.com/spacecollapse/bat
 https://discord.com/invite/tYpSxkRzbD
 
 made with love </>
+
+
+
+# gmod
+
+**FriendlyHack**
+> [!**FriendlyHack**]
+> Useful information that users should know, even when skimming content.
