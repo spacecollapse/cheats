@@ -25,7 +25,7 @@
 |:-----------:|:--------------:|
 | Инжектор для читов                                                       |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe)  |
 | Компоненты для читов(Ошибка при установке - значит уже установлено)      |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip)         |
-| Туториал как инжектить читы                                              |  [Перейти](https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip)         |
+| Туториал как инжектить читы                                              |  [Перейти](https://github.com/spacecollapse/cheats#%D0%BA%D0%B0%D0%BA-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BA%D1%82%D0%B8%D1%82%D1%8C-%D1%87%D0%B8%D1%82%D1%8B)         |
 | Батники для очистки                                                      |  [Перейти](https://github.com/spacecollapse/cheats#%D0%B1%D0%B0%D1%82%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85-%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)         |
 
 
@@ -62,6 +62,17 @@ made with love </>
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/other/cleaner.bat
 
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
 
 ## Как инжектить читы
 
@@ -96,7 +107,17 @@ made with love </>
 ![image](https://user-images.githubusercontent.com/53594431/198863147-52dd717f-c777-4077-8f1e-84123926dd01.png)
 
 
+## - - - - - - - - - - - - 
 
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
 
 ## Rust 
 
