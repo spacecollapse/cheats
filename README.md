@@ -1,10 +1,8 @@
 # ЧИТЫ
 
-Всем привет снова (─‿‿─)
+> [!Important]  
+>  Выберите интересующую вас категорию ниже ツ 
 
-В данный момент времени все читы будут публиковаться исключительно на GitHub❗
-
-Ниже представлена сводка читов, вы должны выбрать интересующую вас категорию ツ 
 
 |    Игры     |   Дата последнего обновления  |
 |:-----------:|:--------------:|
@@ -13,7 +11,7 @@
 | [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod)         |  /*Обновлено 29.07.2024*\ |
 | [Osu](https://github.com/spacecollapse/cheats#osu)                        | /*Обновлено 15.05.2024*\  |
 | [Genshin Impact](https://github.com/spacecollapse/cheats#genshin-impact)  | /*Обновлено 30.10.2024*\  |
-| [Among-Us](https://github.com/spacecollapse/cheats#among-us)              | /*Обновлено 30.10.2024*\  |
+| [Among-Us](https://github.com/spacecollapse/cheats#among-us)              |   /Обновлено 30.10.2024\  |
 | [Team Fortress 2](https://github.com/spacecollapse/cheats#team-fortress-2)       | /*Обновлено ???????????\  |
 | [ShellShock Live](https://github.com/spacecollapse/cheats#shellshocklive)       |    /*Всегда работает*\    |
 
@@ -23,30 +21,16 @@
 
 **Witch It** - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
-
-## Инжектор для читов если у вас его нет
-https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe
-
-## Туториал что делать если не работают читы 
-Скачайте компоненты - https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip
-
-Установите каждый файл, если при установке ошибка значит уже установлено
-
-## Туториал как инжектить читы
-https://github.com/spacecollapse/Inject
-
-## Батники для очистки
-https://github.com/spacecollapse/bat
-
-## Пак после сноса винды
-
-Скачать можно здесь - https://github.com/spacecollapse/cheats/releases/download/ex/windows.zip
-
+|    Другое     |   Дата последнего обновления  |
+|:-----------:|:--------------:|
+| Инжектор для читов                                                       |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe)  |
+| Компоненты для читов(Ошибка при установке - значит уже установлено)      |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip)         |
+| Туториал как инжектить читы                                              |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip)         |
+| Батники для очистки                                                      |  [Перейти](https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip)         |
 
 
 ## credits
 Связь со мной в дискорд, мой ник usehvh на сервере либо тг https://t.me/usehvh
-
 
 https://discord.com/invite/tYpSxkRzbD
 
@@ -64,6 +48,19 @@ made with love </>
 
 ## - - - - - - - - - - - - 
 
+## Батники для очистки активностей/разных логов данных
+
+### Первый
+
+![{B8D1C0A5-266D-48DE-8559-3C074E9B0AEF}](https://github.com/user-attachments/assets/5213ef09-98fd-4456-ba0c-b036cba6e56b)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/other/Windows.bat
+
+### Второй
+
+![{50DD64FE-D3AB-4525-B051-49F700EA119A}](https://github.com/user-attachments/assets/de7f9ab7-7336-4605-b256-be417ea9237c)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/other/cleaner.bat
 
 ## Rust 
 
