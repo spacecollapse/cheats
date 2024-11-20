@@ -13,15 +13,15 @@
 | [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod)         |  /*Обновлено 29.07.2024*\ |
 | [Osu](https://github.com/spacecollapse/cheats#osu)                        | /*Обновлено 15.05.2024*\  |
 | [Genshin Impact](https://github.com/spacecollapse/cheats#genshin-impact)  | /*Обновлено 30.10.2024*\  |
-| [Among-Us](https://github.com/spacecollapse/among-us)                     | /*Обновлено 30.10.2024*\  |
-| [Team Fortress 2](https://github.com/spacecollapse/Team-Fortress-2)       | /*Обновлено 07.02.2024*\  |
-| [ShellShock Live](https://github.com/spacecollapse/ShellShock-Live)       | /*Всегда работает*\       |
+| [Among-Us](https://github.com/spacecollapse/cheats#among-us)              | /*Обновлено 30.10.2024*\  |
+| [Team Fortress 2](https://github.com/spacecollapse/Team-Fortress-2)       | /*Обновлено ???????????\  |
+| [ShellShock Live](https://github.com/spacecollapse/ShellShock-Live)       |    /*Всегда работает*\    |
 
-Sea Of Thieves - /*Произошло добавление античита, читы не обновляют для этой игры*\
+**Sea Of Thieves**- /*Произошло добавление античита, читы не обновляют для этой игры*\
 
-RedMatch2 - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
+**RedMatch2** - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
-Witch It - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
+**Witch It** - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
 
 ## Инжектор для читов если у вас его нет
@@ -222,7 +222,7 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 ## - - - - - - - - - - - - 
 
-# Among-Us
+## Among-Us
 
 ![{A48A317D-98AD-43CB-B17C-467E974540F2}](https://github.com/user-attachments/assets/f7a14c3f-ce7d-4067-a382-eba0d2fd6a2b)
 
@@ -247,4 +247,41 @@ https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2
 
 ## - - - - - - - - - - - - 
 
-чит, читы, чит на раст, раст алкад, usehvh, читы на игры, bypass, пак после сноса винды, injector, инжектор, чит на пиратский раст, чит на гарисмод, гарисмод читы, shellshock чит, фазмафобия читы, читы на фазму, чит на осу, осу читы, амонгас чит, тимфортрес чит, шелшок чит, чит на шелчок, обход, 
+## Team Fortress 2 
+
+После обновления игры на x64 версию, множество читов устарели, но также появились новые, если хотите чтобы я их сюда залил, напишите мне в дс в лс
+
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## ShellShockLive
+
+Чит на шелшок лайв из видео
+
+![{57AA7F9B-425B-48CB-99E8-1ECDEA9C6EF4}](https://github.com/user-attachments/assets/6f208dfc-8f8d-4344-9360-3004e332b884)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/Shell_Shock_Live_aimbot.exe
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+чит, читы, чит на раст, раст алкад, usehvh, читы на игры, bypass, пак после сноса винды, injector, инжектор, чит на пиратский раст, чит на гарисмод, гарисмод читы, shellshock чит, фазмафобия читы, читы на фазму, чит на осу, осу читы, амонгас чит, тимфортрес чит, шелшок чит, чит на шелшок, обход, 
