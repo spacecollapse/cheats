@@ -9,10 +9,10 @@
 |    Игры     |   Дата последнего обновления  |
 |:-----------:|:--------------:|
 | [Rust](https://github.com/spacecollapse/cheats#rust)                    | /*Обновлено 11.08.2024*\  |
-| [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod)       |  /*Обновлено 29.07.2024*\ |
-| [Genshin Impact](https://github.com/spacecollapse/Genshin-Impact)       | /*Обновлено 30.10.2024*\  |
-| [Osu](https://github.com/spacecollapse/osu-)                            | /*Обновлено 15.05.2024*\  |
 | [Phasmophobia](https://github.com/spacecollapse/cheats#phasmophobia)    | /*Обновлено 31.10.2024*\  |
+| [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod)       |  /*Обновлено 29.07.2024*\ |
+| [Osu](https://github.com/spacecollapse/cheats#osu)                            | /*Обновлено 15.05.2024*\  |
+| [Genshin Impact](https://github.com/spacecollapse/Genshin-Impact)       | /*Обновлено 30.10.2024*\  |
 | [Among-Us](https://github.com/spacecollapse/among-us)                   | /*Обновлено 30.10.2024*\  |
 | [Team Fortress 2](https://github.com/spacecollapse/Team-Fortress-2)     | /*Обновлено 07.02.2024*\  |
 | [ShellShock Live](https://github.com/spacecollapse/ShellShock-Live)     | /*Всегда работает*\  |
@@ -182,10 +182,28 @@ Vlone 2564 - https://yougame.biz/threads/330039
 ## Osu!
 
 > [!WARNING]  
-> Status: Detected. Use at your own risk.  
+> Статус: Детект. Использовать на свой страх и риск
 
 ![{CB7EBA3E-EDE3-4A85-A73F-75A09AF0233B}](https://github.com/user-attachments/assets/626b85c4-496b-40a0-b2e5-0ca47604f6f1)
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/freedom.zip
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## Genshin Impact
+
+Скачать shika - https://github.com/spacecollapse/cheats/releases/download/cheats/shika.zip
+
+
 
 чит, читы, чит на раст, раст алкад, usehvh, читы на игры, bypass, пак после сноса винды, injector, инжектор, чит на пиратский раст, чит на гарисмод, гарисмод читы, shellshock чит, фазмафобия читы, читы на фазму, чит на осу, осу читы, амонгас чит, тимфортрес чит, шелшок чит, чит на шелчок, обход, 
