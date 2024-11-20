@@ -210,6 +210,41 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 Скачать shika - https://github.com/spacecollapse/cheats/releases/download/cheats/shika.zip
 
+## - - - - - - - - - - - - 
 
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+# Among-Us
+
+![{A48A317D-98AD-43CB-B17C-467E974540F2}](https://github.com/user-attachments/assets/f7a14c3f-ce7d-4067-a382-eba0d2fd6a2b)
+
+![{97D579F7-1E68-42FB-860F-893DE1FEB790}](https://github.com/user-attachments/assets/a8ac4854-7e5f-42fc-bb29-637c05f9bb4b)
+
+
+https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2-Microsoft.zip
+
+https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2.zip
+
+
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
+
+## - - - - - - - - - - - - 
 
 чит, читы, чит на раст, раст алкад, usehvh, читы на игры, bypass, пак после сноса винды, injector, инжектор, чит на пиратский раст, чит на гарисмод, гарисмод читы, shellshock чит, фазмафобия читы, читы на фазму, чит на осу, осу читы, амонгас чит, тимфортрес чит, шелшок чит, чит на шелчок, обход, 
