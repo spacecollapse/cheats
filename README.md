@@ -202,6 +202,12 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 ## Genshin Impact
 
+![{6936D26C-BF86-45D1-89E2-0E7764EF9219}](https://github.com/user-attachments/assets/809ba902-cc0d-4b8e-8462-2a3d3ca4d519)
+
+Этот тот-же минти, просто с другим названием, чит залит без кфг
+
+Если у вас крашит при запуске (геншин залагивает и не отмирает) или другие проблемы, то запустите файл с совместимостью windows 7
+
 Скачать shika - https://github.com/spacecollapse/cheats/releases/download/cheats/shika.zip
 
 
