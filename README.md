@@ -42,6 +42,8 @@ https://github.com/spacecollapse/bat
 
 Скачать можно здесь - https://github.com/spacecollapse/cheats/releases/download/ex/windows.zip
 
+
+
 ## credits
 Связь со мной в дискорд, мой ник usehvh на сервере либо тг https://t.me/usehvh
 
@@ -61,6 +63,47 @@ made with love </>
 ## - - - - - - - - - - - - 
 
 ## - - - - - - - - - - - - 
+
+
+## Rust 
+
+### Vlone
+
+Скачать обход EAC - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
+
+![{7A2722B9-EE01-4014-B136-99AE612ECBCC}](https://github.com/user-attachments/assets/d5b04b14-1bb3-4349-bf69-bd414fa5bdb3)
+
+Vlone 2564 - https://yougame.biz/threads/330039
+
+Скачаивайте с югейма, все вопросы, претензии туда
+
+Можете скачать длл и инжектить вместе со включенным обходом, если обход не работает пишите в дс
+
+### 236 devblog
+
+![{ADE0864F-5134-41D3-B0E8-795D0F0163B4}](https://github.com/user-attachments/assets/1f102cd0-eee8-492c-8804-a94e190dbbea)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/catcheat.crack.by.frashkey.dll
+
+### 247 devblog
+
+![{C9D373EC-ADEA-4A80-93E5-6B4E291507E5}](https://github.com/user-attachments/assets/e22442e8-b6cd-41c9-9e14-f7490205c51b)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/Hydrogenesis.dll
+
+### plusminus для версий раста до 3 Дек 2021
+
+![image](https://github.com/user-attachments/assets/d518ef74-38e6-43e7-a593-3a045b6d6b32)
+
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/pm.dll
+
+### Rmacros - НА ЛИЦУХЕ - ДЕТЕКТ
+
+![image](https://github.com/user-attachments/assets/a6608251-5ccb-4f1c-a663-4edc4aa967b3)
+
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/RMacros.exe
 
 ## Garry's mod
 
