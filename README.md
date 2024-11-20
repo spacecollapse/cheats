@@ -8,14 +8,14 @@
 
 |    Игры     |   Дата последнего обновления  |
 |:-----------:|:--------------:|
-| [Rust](https://github.com/spacecollapse/cheats#rust)                    | /*Обновлено 11.08.2024*\  |
-| [Phasmophobia](https://github.com/spacecollapse/cheats#phasmophobia)    | /*Обновлено 31.10.2024*\  |
-| [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod)       |  /*Обновлено 29.07.2024*\ |
-| [Osu](https://github.com/spacecollapse/cheats#osu)                            | /*Обновлено 15.05.2024*\  |
-| [Genshin Impact](https://github.com/spacecollapse/Genshin-Impact)       | /*Обновлено 30.10.2024*\  |
-| [Among-Us](https://github.com/spacecollapse/among-us)                   | /*Обновлено 30.10.2024*\  |
-| [Team Fortress 2](https://github.com/spacecollapse/Team-Fortress-2)     | /*Обновлено 07.02.2024*\  |
-| [ShellShock Live](https://github.com/spacecollapse/ShellShock-Live)     | /*Всегда работает*\  |
+| [Rust](https://github.com/spacecollapse/cheats#rust)                      | /*Обновлено 11.08.2024*\  |
+| [Phasmophobia](https://github.com/spacecollapse/cheats#phasmophobia)      | /*Обновлено 31.10.2024*\  |
+| [Garry's Mod](https://github.com/spacecollapse/cheats#garrys-mod)         |  /*Обновлено 29.07.2024*\ |
+| [Osu](https://github.com/spacecollapse/cheats#osu)                        | /*Обновлено 15.05.2024*\  |
+| [Genshin Impact](https://github.com/spacecollapse/cheats#genshin-impact)  | /*Обновлено 30.10.2024*\  |
+| [Among-Us](https://github.com/spacecollapse/among-us)                     | /*Обновлено 30.10.2024*\  |
+| [Team Fortress 2](https://github.com/spacecollapse/Team-Fortress-2)       | /*Обновлено 07.02.2024*\  |
+| [ShellShock Live](https://github.com/spacecollapse/ShellShock-Live)       | /*Всегда работает*\       |
 
 Sea Of Thieves - /*Произошло добавление античита, читы не обновляют для этой игры*\
 
