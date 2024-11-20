@@ -62,6 +62,8 @@ made with love </>
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/other/cleaner.bat
 
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
+
 ## - - - - - - - - - - - - 
 
 ## - - - - - - - - - - - - 
@@ -106,6 +108,7 @@ made with love </>
 
 ![image](https://user-images.githubusercontent.com/53594431/198863147-52dd717f-c777-4077-8f1e-84123926dd01.png)
 
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
@@ -159,6 +162,7 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/RMacros.exe
 
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
@@ -183,6 +187,8 @@ Vlone 2564 - https://yougame.biz/threads/330039
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/friendly.dll
 
 ![image](https://github.com/user-attachments/assets/f6f11c40-20ba-4410-bd4e-9c433e921ab7)
+
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
@@ -219,6 +225,8 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/PhasmoMenu.v0.5.4.5.By.PappyG_.unknowncheats.me._.exe
 
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
+
 
 ## - - - - - - - - - - - - 
 
@@ -242,6 +250,8 @@ Vlone 2564 - https://yougame.biz/threads/330039
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/freedom.zip
 
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
+
 ## - - - - - - - - - - - - 
 
 ## - - - - - - - - - - - - 
@@ -263,6 +273,8 @@ Vlone 2564 - https://yougame.biz/threads/330039
 Если у вас крашит при запуске (геншин залагивает и не отмирает) или другие проблемы, то запустите файл с совместимостью windows 7
 
 Скачать shika - https://github.com/spacecollapse/cheats/releases/download/cheats/shika.zip
+
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
@@ -287,7 +299,7 @@ https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2
 
 https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2.zip
 
-
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
@@ -305,6 +317,7 @@ https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2
 
 После обновления игры на x64 версию, множество читов устарели, но также появились новые, если хотите чтобы я их сюда залил, напишите мне в дс в лс
 
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
@@ -325,6 +338,8 @@ https://github.com/spacecollapse/cheats/releases/download/cheats/MalumMenu-2.4.2
 ![{57AA7F9B-425B-48CB-99E8-1ECDEA9C6EF4}](https://github.com/user-attachments/assets/6f208dfc-8f8d-4344-9360-3004e332b884)
 
 Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/Shell_Shock_Live_aimbot.exe
+
+|  [Вернутся наверх](https://github.com/spacecollapse/cheats#cheats)  |
 
 ## - - - - - - - - - - - - 
 
