@@ -177,4 +177,15 @@ Vlone 2564 - https://yougame.biz/threads/330039
 ## - - - - - - - - - - - - 
 
 ## - - - - - - - - - - - - 
+
+
+## Osu!
+
+> [!WARNING]  
+> Status: Detected. Use at your own risk.  
+
+![{CB7EBA3E-EDE3-4A85-A73F-75A09AF0233B}](https://github.com/user-attachments/assets/626b85c4-496b-40a0-b2e5-0ca47604f6f1)
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/cheats/freedom.zip
+
 чит, читы, чит на раст, раст алкад, usehvh, читы на игры, bypass, пак после сноса винды, injector, инжектор, чит на пиратский раст, чит на гарисмод, гарисмод читы, shellshock чит, фазмафобия читы, читы на фазму, чит на осу, осу читы, амонгас чит, тимфортрес чит, шелшок чит, чит на шелчок, обход, 
