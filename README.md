@@ -14,8 +14,8 @@
 | [Osu](https://github.com/spacecollapse/cheats#osu)                        | /*Обновлено 15.05.2024*\  |
 | [Genshin Impact](https://github.com/spacecollapse/cheats#genshin-impact)  | /*Обновлено 30.10.2024*\  |
 | [Among-Us](https://github.com/spacecollapse/cheats#among-us)              | /*Обновлено 30.10.2024*\  |
-| [Team Fortress 2](https://github.com/spacecollapse/Team-Fortress-2)       | /*Обновлено ???????????\  |
-| [ShellShock Live](https://github.com/spacecollapse/ShellShock-Live)       |    /*Всегда работает*\    |
+| [Team Fortress 2](https://github.com/spacecollapse/cheats#team-fortress-2)       | /*Обновлено ???????????\  |
+| [ShellShock Live](https://github.com/spacecollapse/cheats#shellshocklive)       |    /*Всегда работает*\    |
 
 **Sea Of Thieves**- /*Произошло добавление античита, читы не обновляют для этой игры*\
 
