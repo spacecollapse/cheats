@@ -21,7 +21,7 @@
 
 **Witch It** - /*Раздел не обновлён уже как полгода, читы не обновляют для этой игры*\
 
-|    Другое     |   Дата последнего обновления  |
+|    Другое     |   Действие  |
 |:-----------:|:--------------:|
 | Инжектор для читов                                                       |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe)  |
 | Компоненты для читов(Ошибка при установке - значит уже установлено)      |  [Скачать](https://github.com/spacecollapse/cheats/releases/download/ex/requirements.zip)         |
