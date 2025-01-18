@@ -124,17 +124,10 @@ made with love </>
 
 ## Rust 
 
-### Vlone
+### ALKAD RUST 
 
-Скачать обход EAC - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
+Читов нет соре
 
-![{7A2722B9-EE01-4014-B136-99AE612ECBCC}](https://github.com/user-attachments/assets/d5b04b14-1bb3-4349-bf69-bd414fa5bdb3)
-
-Vlone 2564 - https://yougame.biz/threads/330039
-
-Скачаивайте с югейма, все вопросы, претензии туда
-
-Можете скачать длл и инжектить вместе со включенным обходом, если обход не работает пишите в дс
 
 ### 236 devblog
 
