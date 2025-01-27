@@ -128,6 +128,9 @@ made with love </>
 
 SUPERIORITY
 
+![image](https://github.com/user-attachments/assets/54201e56-a776-49c9-bd4f-9314a73da53b)
+
+
 Скачать - https://github.com/spacecollapse/cheats/releases/download/other/superiority_RUST.dll
 
 
