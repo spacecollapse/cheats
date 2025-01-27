@@ -126,7 +126,9 @@ made with love </>
 
 ### ALKAD RUST 
 
-Читов нет соре
+SUPERIORITY
+
+Скачать - https://github.com/spacecollapse/cheats/releases/download/other/superiority_RUST.dll
 
 
 ### 236 devblog
